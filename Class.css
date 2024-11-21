@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(rgb(158, 95, 0), rgb(236, 181, 79));
+    text-align: center;
+}
+.Titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #613701;
+    text-align: center;
+    position: relative;
+    top: 26px;
+    font-size: 45px;
+}
+.Cuadrado2 {
+    width: 1850px; height: 150px;
+    background-color: #ffffff;
+    position: relative;
+    left: 1px;
+    right: 5px;
+    top: 1px;
+    bottom: 5px;
+    border-style: dashed;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 29px;
+    color: #ffffff;
+}
+.Cuadrado {
+    width: 500px; height: 100px; 
+    background-color: #613701;
+    border: 10px, solid, white;
+    position: relative;
+    left: 660px;
+    right: 5px;
+    top: 5px;
+    bottom: 5px;
+
+}
+hr {
+    width: 800px; height: 10px;
+    background-color: white;
+    border-radius: 40%;
+    border-style: double;
+    border: 3px, solid black;
+}
